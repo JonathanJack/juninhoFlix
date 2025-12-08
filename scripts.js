@@ -2,7 +2,7 @@
 const filmes = [
   {
     titulo: "Soilent Green",
-    imagem: "/green.jpg",
+    imagem: "green.jpg",
     link: "https://mega.nz/file/rBcAmaZQ#7Uqs3_JqPIfWN4jiXu1vm-0_iUBqg5yBXFPCArUp-5I"
   },
   {
@@ -50,4 +50,5 @@ function montarCatalogo(){
 
 // Inicialização
 montarCatalogo();
+
 
