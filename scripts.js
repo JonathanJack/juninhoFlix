@@ -3,7 +3,7 @@ const filmes = [
   {
     titulo: "Soilent Green",
     imagem: "green.jpg",
-    link: "https://mega.nz/file/rBcAmaZQ#7Uqs3_JqPIfWN4jiXu1vm-0_iUBqg5yBXFPCArUp-5I"
+    link: "https://mega.nz/folder/aXoWlbDZ#WZsBhUWw6RT1rSUiJLta9Q"
   },
   {
     titulo: "Machuca",
